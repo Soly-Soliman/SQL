@@ -1,0 +1,1 @@
+select *  from [T_PROJECT_1].[LKP_EMP_DEP]
